@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Noorall 👦,
 
-<!--
-**le520/le520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **I am a Developer from China**
+- 🔭 I’m currently study at **NWPU**.
+- 🌱 I’m currently learning **Kotlin**
+- 📫 How to reach me: *@Nooarlls* on Telegram.
+- 😄 Pronouns: he/him/his
+- 💬 Ask me about **Android**
 
-Here are some ideas to get you started:
+**Stats:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=le520&show_icons=true&theme=light)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le520&theme=light)](https://github.com/anuraghazra/github-readme-stats)
