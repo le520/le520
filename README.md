@@ -9,6 +9,6 @@
 
 **Stats:**  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=le520&show_icons=true&theme=light)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=noorall&show_icons=true&theme=light)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=le520&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorall&theme=light)](https://github.com/anuraghazra/github-readme-stats)
