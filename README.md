@@ -1,11 +1,11 @@
 ## Hi there, I'm LeiYang 👦,
 
 ### **I am a Developer from China**
-- 🔭 I’m currently study at **NWPU**.
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I’m currently study at **BUAA**.
+- 🌱 I’m currently learning **Golang**
 - 📫 How to reach me: *@Nooarlls* on Telegram.
 - 😄 Pronouns: he/him/his
-- 💬 Ask me about **Android**
+- 💬 Ask me about **C/C++/JAVA/Golang**
 
 **Stats:**  
 
