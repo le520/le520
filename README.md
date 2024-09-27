@@ -1,9 +1,9 @@
-## Hi there, I'm LeiYang 👦,
+## Hi there, I'm Lei Yang 👦,
 
 ### **I am a Developer from China**
 - 🔭 I’m currently study at **BUAA**.
 - 🌱 I’m currently learning **Golang**
-- 📫 How to reach me: *@Nooarlls* on Telegram.
+- 📫 How to reach me: *leya5211@gmail.com* on Email.
 - 😄 Pronouns: he/him/his
 - 💬 Ask me about **C/C++/JAVA/Golang**
 
